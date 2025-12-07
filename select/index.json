@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "EYE",
+  "base_artist": "Kanaria",
+  "createdAt": "2025-12-07T16:35:55.579763Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hog Eye Man",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Hog_Eye_Man_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eye in the Sky",
+      "artist": "The Alan Parsons Project",
+      "has_synced": true,
+      "path": "select/02_Eye_in_the_Sky_The_Alan_Parsons_Project.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Not Fair - Style Of Eye Remix",
+      "artist": "Lily Allen",
+      "has_synced": false,
+      "path": "select/03_Not_Fair_-_Style_Of_Eye_Remix_Lily_Allen.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Not Fair [Style Of Eye Remix] [Special Track]",
+      "artist": "Lily Allen",
+      "has_synced": false,
+      "path": "select/04_Not_Fair_[Style_Of_Eye_Remix]_[Special_Track]_Lily_Allen.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Runaway (James Zabiela Red Eye Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/05_Runaway_(James_Zabiela_Red_Eye_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Looking Through The Eye Of A Pig",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/06_Looking_Through_The_Eye_Of_A_Pig_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Eye 2 Eye",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/07_Eye_2_Eye_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Eye Contact",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/08_Eye_Contact_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cat's Eye",
+      "artist": "LONE",
+      "has_synced": false,
+      "path": "select/09_Cat's_Eye_LONE.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eye A",
+      "artist": "Lawrence Arabia",
+      "has_synced": false,
+      "path": "select/10_Eye_A_Lawrence_Arabia.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Eye Drops",
+      "artist": "Lemonade",
+      "has_synced": true,
+      "path": "select/11_Eye_Drops_Lemonade.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Right Eye",
+      "artist": "Laurie Anderson",
+      "has_synced": true,
+      "path": "select/12_My_Right_Eye_Laurie_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Naked Eye",
+      "artist": "Luscious Jackson",
+      "has_synced": true,
+      "path": "select/13_Naked_Eye_Luscious_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eye Know",
+      "artist": "De La Soul",
+      "has_synced": false,
+      "path": "select/14_Eye_Know_De_La_Soul.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/15_Eye_of_the_Tiger_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Cheery Wave From Stranded Youngsters - Third Eye Foundation Tet Offensive Remix",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/16_A_Cheery_Wave_From_Stranded_Youngsters_-_Third_Eye_Foundation_Tet_Offensive_Remi_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Black Eye/Burnt Thumb",
+      "artist": "Metronomy",
+      "has_synced": false,
+      "path": "select/17_Black_Eye_Burnt_Thumb_Metronomy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EYE",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_EYE_Kanaria.txt"
+    }
+  ]
+}

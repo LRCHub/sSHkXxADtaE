@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "EYE",
   "base_artist": "Kanaria",
-  "createdAt": "2025-12-07T16:35:55.579763Z",
+  "createdAt": "2026-03-27T07:52:29.320629Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,15 @@
       "artist": "Kanaria",
       "has_synced": false,
       "path": "select/pl_01_EYE_Kanaria.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "EYE",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/localdb_01_EYE_Kanaria.txt",
+      "repo_name": "sSHkXxADtaE"
     }
   ]
 }
